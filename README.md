@@ -1,2 +1,5 @@
-# org.webjars-jquery.classyLoader
-Classy Loader jquery plugin: http://www.class.pm/files/jquery/classyloader/
+WebJar for slimScroll
+
+More info: http://webjars.org
+
+Upstream: https://github.com/rochal/jQuery-classyLoader/
